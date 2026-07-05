@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Testando commit
+=======
+## Teste Commit
+>>>>>>> 08f5801 (Teste Commit)
 require("./db/db.js");
 const mongoose = require("mongoose");
 const express = require('express');
